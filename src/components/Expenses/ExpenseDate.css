@@ -1,0 +1,9 @@
+.expense__date {
+  border-radius: 10px;
+  border: 2px solid black;
+  padding: 10px;
+  font-size: 1.5rem;
+  font-weight: 500;
+  box-shadow: 2px 5px 10px black;
+  background: #c6fff9;
+}

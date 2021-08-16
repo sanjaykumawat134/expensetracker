@@ -1,0 +1,33 @@
+form {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin: 20px;
+  padding: 10px;
+}
+.new-expenses_control {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-align: center;
+  color: black;
+}
+
+.new-exense__actions {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.new-exense__actions > button {
+  position: relative;
+  transform: translate(0, 50%);
+  padding: 10px;
+  font-size: 1.2rem;
+  box-shadow: 2px 5px 10px black;
+  outline: none;
+  background: #671313;
+  color: white;
+  border-radius: 10px;
+}

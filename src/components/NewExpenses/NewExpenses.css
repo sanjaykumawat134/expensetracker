@@ -1,0 +1,18 @@
+.expense_form_control {
+  background: aliceblue;
+  padding: 20px 10px;
+  box-shadow: 5px 5px 10px 5px black;
+  margin: 20px 10px;
+}
+
+input {
+  padding: 10px;
+  font-size: 1.2rem;
+  margin-top: 10px;
+  box-shadow: 1px 1px 10px 0px black, 7px 4px 10px 0px #040303;
+  outline: none;
+  border-radius: 10px;
+}
+.expense_form_control {
+  margin: 50px;
+}
