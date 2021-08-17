@@ -4,7 +4,6 @@
   align-items: center;
   background: #84b4b0;
   padding: 10px;
-  margin: 10px;
 }
 .expense-item__amount {
   border: 2px solid black;
@@ -13,5 +12,4 @@
   box-shadow: 2px 5px 10px black;
   border-radius: 10px;
   background: #c6fff9;
-  margin: 20px;
 }

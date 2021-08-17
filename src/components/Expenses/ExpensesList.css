@@ -1,0 +1,9 @@
+.expenses__fallback {
+  text-align: center;
+  font-size: 1.5rem;
+  background: red;
+  padding: 10px;
+  color: white;
+  width: 50%;
+  transform: translate(50%);
+}
